@@ -1,0 +1,16 @@
+{
+    "name": "PlayerMechanics",
+    "rootNamespace": "",
+    "references": [
+        "GUID:daf25d5b6bafc544ba8670e67c69366a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

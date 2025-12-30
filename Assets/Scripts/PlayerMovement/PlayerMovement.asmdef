@@ -1,0 +1,17 @@
+{
+    "name": "PlayerMovement",
+    "rootNamespace": "",
+    "references": [
+        "GUID:58a06df985b1c904f92db02e89d8db19",
+        "GUID:67577c23db0dab7459aa8d8e9b3a74d6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
