@@ -16,4 +16,6 @@ MonoBehaviour:
   behaveType: 1
   attackRange: 7.5
   viewRadius: 12
-  moveSpeed: 3
+  moveSpeed: 4
+  attackCoolDown: 0.5
+  attackDamage: 7.35

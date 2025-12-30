@@ -265,11 +265,11 @@ public class Enemy : MonoBehaviour
             else if (Suspicion > HighSuspicion)
                 alertSign.color = Color.red;
 
-            if (Suspicion <= 0)
-            {
-                alertSign.gameObject.SetActive(false);
-                Suspicion = 0;
-            }
+        }
+        else
+        {
+            alertSign.gameObject.SetActive(false);
+            Suspicion = 0;
         }
     }
     #endregion

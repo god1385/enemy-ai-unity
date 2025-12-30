@@ -1,6 +1,6 @@
 using UnityEngine;
 
-[CreateAssetMenu(menuName = "Enemy/EnemyType")]
+[CreateAssetMenu(fileName = "EnemyType", menuName = "AI/Enemy Type", order = 1)]
 public class EnemyType : ScriptableObject
 {
     [Range(0f, 100f)]
